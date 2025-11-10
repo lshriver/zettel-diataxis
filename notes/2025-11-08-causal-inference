@@ -1,0 +1,7 @@
+# Causal Inference in Physics
+
+How might Pearlian causal inference help formalize **energy flow** or **information flow**?
+
+- Nodes: physical quantities (energy, entropy, temperature).
+- Edges: causal dependencies (e.g., \( Q \rightarrow \Delta S \)).
+- Possible integration: structural causal models with Hamiltonian mechanics.
