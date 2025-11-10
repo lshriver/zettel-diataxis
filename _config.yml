@@ -1,0 +1,6 @@
+title: Zettel-Diataxis
+description: A hybrid of Zettelkasten and Diataxis for thinking and teaching.
+theme: minima
+markdown: kramdown
+author: Lauren Shriver
+permalink: /:path/
